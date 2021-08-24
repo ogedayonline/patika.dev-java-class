@@ -9,5 +9,5 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramı aşağıda verilmiştir:
 
 
 
-![img](https://www.hizliresim.com/l46t013)
+![img](https://i.hizliresim.com/l46t013.jpg)
 
