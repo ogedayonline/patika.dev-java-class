@@ -9,5 +9,5 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramı aşağıda verilmiştir:
 
 
 
-![Üniversite Yönetim Sistemi UML](C:\Users\Ogeday\Downloads\UniversiteYonetim (1).jpg)
+![img](https://www.hizliresim.com/l46t013)
 
